@@ -1,22 +1,16 @@
 # Campsite
 - [ ] Tent (+ footprint, stakes)
 - [ ] Sleeping bags
-- [ ] Sleeping pads
+- [ ] Sleeping bag liner
+- [ ] Sleeping mattress
 - [ ] Camping pillow
 - [ ] Headlamps
 - [ ] Flashlight
-- [ ] Camp chairs
-- [ ] Camp table (if no picnic table)
-- [ ] Lantern (+ mantles and fuel/batteries if needed)
-- [ ] Optional:
-  - [ ] Sunshade, tarp or screen house
-  - [ ] Hammock
-  - [ ] Cots
-  - [ ] Sleeping bag liners
-  - [ ] Firewood sourced near campsite
-  - [ ] Camp rug
-  - [ ] Tablecloth and clips (or tape)
-  - [ ] Clothesline with clips
+- [ ] Camp chair
+- [ ] Camp table
+- [ ] Lantern
+- [ ] Sunshade, tarp or screen house
+- [ ] Hammock
 
 # Tools & Repair Items
 - [ ] Multi-tool
