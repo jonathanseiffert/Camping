@@ -3,7 +3,8 @@
 - [ ] Sleeping bags
 - [ ] Sleeping pads
 - [ ] Camping pillow
-- [ ] Headlamps or flashlights (+extra batteries)
+- [ ] Headlamps
+- [ ] Flashlight
 - [ ] Camp chairs
 - [ ] Camp table (if no picnic table)
 - [ ] Lantern (+ mantles and fuel/batteries if needed)
