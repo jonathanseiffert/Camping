@@ -21,38 +21,34 @@
 - [ ] Axe
 
 # Kitchen
-- [ ] Many campgrounds have drinkable water. If not, bring your own, or be prepared to treat water if there’s a water source. Also, for even more ideas and food suggestions, see our separate Camp Kitchen Checklist.
-- [ ] Stove and fuel
-- [ ] Matches/light/firestarter
-- [ ] Cook pots (+ pot holder)
-- [ ] Frying pan
+- [ ] Water
+- [ ] Matches
+- [ ] Lighter
+- [ ] Lighter fluid
 - [ ] Eating utensils
 - [ ] Cooking utensils
-- [ ] Bottle opener, can opener, corkscrew
 - [ ] Sharp knife
+- [ ] Cutting board
 - [ ] Plates/bowls
 - [ ] Mugs/cups
-- [ ] Cutting board
 - [ ] Cooler
-- [ ] Ice or ice substitutes
-- [ ] Water bottles
-- [ ] Camp sink or wash bins
+- [ ] Container
 - [ ] Biodegradable soap
-- [ ] Pot scrubber/sponge(s)
-- [ ] Trash/recycling bags
-- [ ] Dish towel
-- [ ] Optional:
-  - [ ] Camp grill and fuel
-  - [ ] Grill rack
-  - [ ] Griddle
-  - [ ] Dutch oven
-  - [ ] Charcoal
-  - [ ] Portable coffee/tea maker
-  - [ ] Rolling ice cream maker
-  - [ ] Marshmallow/hot dog roasting forks
-  - [ ] Small food-storage containers/bags/foil
-  - [ ] Large water jugs
-  - [ ] Large, clear plastic bins to store kitchen gear
+- [ ] Tea towels
+- [ ] Trash bags
+- [ ] Grocery bags
+
+# Food
+- [ ] Water bottles
+- [ ] Seltzer
+- [ ] Nut butter
+- [ ] Bread
+- [ ] Honey
+- [ ] Trail mix
+- [ ] Granola
+- [ ] Almond milk
+- [ ] Chips
+- [ ]
 
 # Campsite Extras
 - [ ] Most of the following items are optional, though depending on how remote your campsite is, navigation tools such as a map, compass and/or GPS may be required (for more info, read about the Ten Essentials).

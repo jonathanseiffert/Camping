@@ -13,3 +13,10 @@ Camp Chair | [REI Co-op Camp X Chair](https://www.rei.com/product/847136/rei-co-
 Camp Table | [Coleman Outdoor Compact Table](https://www.amazon.com/Coleman-2000020279-Compact-Folding-Table/dp/B005G0XFEM/ref=sr_1_2?ie=UTF8&qid=1536480396&sr=8-2&keywords=Coleman+Outdoor+Compact+Table) | $26.00
 Lantern | [Black Diamond Apollo Lantern](https://www.amazon.com/Black-Diamond-Apollo-Lantern-Graphite/dp/B06WVZTF63/ref=sr_1_3?s=sporting-goods&ie=UTF8&qid=1536478397&sr=1-3&keywords=Black+Diamond+Apollo) | $59.95
 Sunshade | [Kelty Noah's Tarp Sun Shelter](https://www.amazon.com/Kelty-4082021612-Noahs-Tarp-12/dp/B012FCGLEY/ref=sr_1_3?s=sporting-goods&ie=UTF8&qid=1536481891&sr=1-3&keywords=Kelty%2BNoah%27s%2BTarp&th=1&psc=1) | $52.46
+Duct tape | [All-Purpose Duct Tape](https://www.amazon.com/Duck-394468-All-Purpose-Inches-Silver/dp/B0006HX2MK/ref=sr_1_3?ie=UTF8&qid=1536509264&sr=8-3&keywords=duct+tape) | $6.52
+Cord | [BlueWater 3mm NiteLine Utility Cord](https://www.rei.com/product/118267/bluewater-3mm-niteline-utility-cord-50) | $17.00
+Stakes | [REI Co-op Aluminum Hook Tent Stake](https://www.rei.com/product/693153/rei-co-op-aluminum-hook-tent-stake) | $1.95 x 10
+Matches |[GreenLight Diamond Strike on Box Matches](https://www.amazon.com/GreenLight-Diamond-Strike-Matches-Count/dp/B005XP4FKI/ref=sr_1_3?ie=UTF8&qid=1536511028&sr=8-3&keywords=matches) | $4.99
+Lighter fluid | [Zippo Lighter Fluid](https://www.amazon.com/Zippo-Lighter-Fluid-12-oz/dp/B000K2U3JG/ref=sr_1_1?ie=UTF8&qid=1536511369&sr=8-1&keywords=zippo%2Blighter%2Bfluid&th=1) | $7.45
+Cooler | |
+Biodegradable soap | |
