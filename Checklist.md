@@ -64,6 +64,9 @@
 - [ ] Notebook and pen/pencil
 - [ ] Art supplies
 - [ ] Playing cards
+- [ ] Marijuana
+- [ ] Edibles
+- [ ] Pipe
 
 # Dog supplies
 - [ ] Food
