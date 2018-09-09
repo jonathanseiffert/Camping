@@ -13,14 +13,12 @@
 - [ ] Hammock
 
 # Tools & Repair Items
-- [ ] Multi-tool
+- [ ] Auto-repair kit
 - [ ] Duct tape
 - [ ] Extra cord
-- [ ] Tent-pole repair sleeve
-- [ ] Pad/Mattress repair kit
-- [ ] Mallet or hammer (for hammering tent stakes)
-- [ ] Saw or axe (for cutting firewood)
-- [ ] Small broom and dustpan
+- [ ] Extra stakes
+- [ ] Hammer
+- [ ] Axe
 
 # Kitchen
 - [ ] Many campgrounds have drinkable water. If not, bring your own, or be prepared to treat water if there’s a water source. Also, for even more ideas and food suggestions, see our separate Camp Kitchen Checklist.
