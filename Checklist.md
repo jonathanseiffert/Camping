@@ -1,6 +1,7 @@
 # Campsite
 - [ ] Tent (+ footprint, stakes)
 - [ ] Sleeping bags
+- [ ] Fleece blanket
 - [ ] Sleeping bag liner
 - [ ] Sleeping mattress
 - [ ] Camping pillow
@@ -40,83 +41,71 @@
 
 # Food
 - [ ] Water bottles
-- [ ] Seltzer
-- [ ] Nut butter
-- [ ] Bread
-- [ ] Honey
-- [ ] Trail mix
-- [ ] Granola
-- [ ] Almond milk
-- [ ] Chips
-- [ ]
 
 # Campsite Extras
-- [ ] Most of the following items are optional, though depending on how remote your campsite is, navigation tools such as a map, compass and/or GPS may be required (for more info, read about the Ten Essentials).
-- [ ] Solar and portable power
+- [ ] Map
+- [ ] Compass
+- [ ] Power inverter
+- [ ] Camera
+- [ ] Tripod
+- [ ] Cellphone
+- [ ] Cellphone charger
+- [ ] Macbook Pro
+- [ ] Macbook charger
+- [ ] Magic mouse
+- [ ] Mouse pad
+- [ ] Nintendo Switch
+- [ ] Steam controller
+- [ ] USB battery pack
+- [ ] Headphones
 - [ ] Binoculars
-- [ ] Navigation tools
-- [ ] Field guides (flowers, insects)
-- [ ] Star chart/night-sky identifier
-- [ ] Book/reading material
+- [ ] Birding field guide
+- [ ] Graphic novels
 - [ ] Notebook and pen/pencil
-- [ ] Music player with headphones
-- [ ] Games and toys
-- [ ] Dog gear
-- [ ] Dry bags, stuff sacks or clear plastic bins to store items
+- [ ] Art supplies
+- [ ] Playing cards
+
+# Dog supplies
+- [ ] Food
+- [ ] Water
+- [ ] Food bowl
+- [ ] Water bowl
+- [ ] Treats
+- [ ] Bed
 
 # Clothing & Footwear
-- [ ] Moisture-wicking underwear
-- [ ] Moisture-wicking T-shirts
-- [ ] Quick-drying pants/shorts
-- [ ] Long-sleeve shirts (for sun, bugs)
-- [ ] Lightweight fleece or jacket
-- [ ] Boots or shoes suited to terrain
-- [ ] Socks (synthetic or wool)
+- [ ] Underwear
+- [ ] T-shirts
+- [ ] Pants
+- [ ] Shorts
+- [ ] Long-sleeve shirts
+- [ ] Socks
+- [ ] Boots
+- [ ] Hiking boots
 - [ ] Sleepwear
-- [ ] Additional items for rainy and/or cold weather:
-- [ ] Rainwear (jacket and pants)
 - [ ] Long underwear
-- [ ] Warm insulated jacket or vest
-- [ ] Fleece pants
-- [ ] Gloves or mittens
-- [ ] Warm hat
-- [ ] Optional:
-  - [ ] Swimsuits
-  - [ ] Water sandals
-  - [ ] In-camp sandals or booties
-  - [ ] Bandanas
+- [ ] Rainwear
+- [ ] Lightweight fleece
+- [ ] Warm insulated jacket
+- [ ] Gloves
+- [ ] Stocking hat
+- [ ] Baseball cap
+- [ ] Swimsuits
+- [ ] Water sandals
+- [ ] Bandanas
 
 # Health & Hygiene
 - [ ] Toilet paper
-- [ ] Hand sanitizer
-- [ ] Toothbrush and toothpaste
-- [ ] Toiletry kit
-- [ ] Quick-dry towel
-- [ ] Menstrual products
-- [ ] Prescription medications
+- [ ] Toothbrush
+- [ ] Toothpaste
+- [ ] Toiletries
+- [ ] Towel
 - [ ] First-aid kit or first-aid supplies (see First-Aid Checklist)
-- [ ] Sun and bug protection:
 - [ ] Sunscreen
-- [ ] Sunglasses (+ retainer leash)
-- [ ] Sun hat
+- [ ] Sunglasses
 - [ ] Lip balm
-- [ ] Insect repellent
-- [ ] Insect repellent candles
-- [ ] Optional:
-  - [ ] Urinary products
-  - [ ] Sanitation trowel (if no toilets)
-  - [ ] Baby wipes
-  - [ ] Alcohol or antiseptic wipes
-  - [ ] Mirror
-  - [ ] Brush/comb
-  - [ ] Cosmetics
-  - [ ] Spare eyeglasses/contact lens supplies
-  - [ ] Eyeshades
-  - [ ] Earplugs
-  - [ ] Portable camp shower
 
 # Personal Items
 - [ ] Credit card and/or cash
 - [ ] ID
 - [ ] Cellphone
-- [ ] Campsite reservation confirmation (if required)
