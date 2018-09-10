@@ -54,10 +54,11 @@
 - [ ] Macbook charger
 - [ ] Magic mouse
 - [ ] Mouse pad
-- [ ] Nintendo Switch
 - [ ] Steam controller
+- [ ] Nintendo Switch
 - [ ] USB battery pack
 - [ ] Headphones
+- [ ] Bose speaker
 - [ ] Binoculars
 - [ ] Birding field guide
 - [ ] Graphic novels
