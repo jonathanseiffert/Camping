@@ -21,8 +21,8 @@ Product | Hyperlink | Cost
 ~~Cooler~~ |[~~YETI Roadie 20 Cooler~~](https://www.amazon.com/gp/product/B004YIBWNS/ref=ox_sc_act_title_1?smid=A3VZHMRV3J141P&psc=1) | ~~$199.99~~
 ~~Biodegradable Soap~~ | [~~Dr. Bronner's Mild Liquid Soap~~](https://www.rei.com/product/407175/dr-bronners-mild-liquid-soap) | ~~$4.50~~
 ~~Compass~~ | [~~Suunto A-10 Compass~~](https://www.rei.com/product/890929/suunto-a-10-compass) | ~~$21.00~~
-Power Inverter | [Belkin DC/AC 140-Watt Power Inverter](https://www.amazon.com/Belkin-140-Watt-Power-Inverter-F5C400-140W/dp/B00006HX15) | $33.63
-Playing Cards | [Coleman Waterproof Plastic Playing Cards](https://www.amazon.com/Coleman-2000016541-2000009491-Cards-Playing/dp/B006GJOFY6/ref=sr_1_11?ie=UTF8&qid=1536545698&sr=8-11&keywords=waterproof+playing+cards+camping) | $9.08
+~~Power Inverter~~ | [~~Belkin DC/AC 140-Watt Power Inverter~~](https://www.amazon.com/Belkin-140-Watt-Power-Inverter-F5C400-140W/dp/B00006HX15) | ~~$33.63~~
+~~Playing Cards~~ | [~~Coleman Waterproof Plastic Playing Cards~~](https://www.amazon.com/Coleman-2000016541-2000009491-Cards-Playing/dp/B006GJOFY6/ref=sr_1_11?ie=UTF8&qid=1536545698&sr=8-11&keywords=waterproof+playing+cards+camping) | ~~$9.08~~
 ~~Dog Bed~~ | [~~Carlson Pet Products 8045 Elevated Folding Pet Bed~~ ](amazon.com/gp/product/B01NBSS63G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) | ~~$25.99~~
 ~~Long Underwear~~ | [~~Patagonia Capilene Mid-Weight Bottoms~~](https://www.rei.com/product/118324/patagonia-capilene-midweight-long-underwear-bottoms-mens) | ~~$59.00~~
 ~~Long Underwear~~ | [~~Patagonia Capilene Midweight Crew Long Underwear Top~~](https://www.rei.com/product/118322/patagonia-capilene-midweight-crew-long-underwear-top-mens) | ~~$59.00~~
