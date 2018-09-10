@@ -24,5 +24,5 @@ Cooler |[Coleman 70 Quart Xtreme 5 Cooler](https://www.amazon.com/gp/product/B00
 Power Inverter | [Belkin DC/AC 140-Watt Power Inverter](https://www.amazon.com/Belkin-140-Watt-Power-Inverter-F5C400-140W/dp/B00006HX15) | $33.63
 Playing Cards | [Coleman Waterproof Plastic Playing Cards](https://www.amazon.com/Coleman-2000016541-2000009491-Cards-Playing/dp/B006GJOFY6/ref=sr_1_11?ie=UTF8&qid=1536545698&sr=8-11&keywords=waterproof+playing+cards+camping) | $9.08
 ~~Long Underwear~~ | [~~Patagonia Capilene Mid-Weight Bottoms~~](https://www.rei.com/product/118324/patagonia-capilene-midweight-long-underwear-bottoms-mens) | ~~$59.00~~
-~~Long Underwear~~ | [~~Patagonia Capilene Midweight Crew Long Underwear Top~~](https://www.rei.com/product/118322/patagonia-capilene-midweight-crew-long-underwear-top-mens) | $59.00
+~~Long Underwear~~ | [~~Patagonia Capilene Midweight Crew Long Underwear Top~~](https://www.rei.com/product/118322/patagonia-capilene-midweight-crew-long-underwear-top-mens) | ~~$59.00~~
 First-aid Kit | [Small First Aid Kit](https://www.amazon.com/Backpacking-Cycling-Waterproof-Laminate-Adventures/dp/B01HGSLB6K/ref=sr_1_3?ie=UTF8&qid=1536522479&sr=8-3&keywords=Surviveware) | $36.95
