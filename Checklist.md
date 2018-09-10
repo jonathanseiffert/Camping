@@ -33,11 +33,12 @@
 - [ ] Plates/bowls
 - [ ] Mugs/cups
 - [ ] Cooler
-- [ ] Container
+- [ ] Bucket
 - [ ] Biodegradable soap
-- [ ] Tea towels
+- [ ] Towels
 - [ ] Trash bags
 - [ ] Grocery bags
+- [ ] Paper towels
 
 # Food
 - [ ] Water bottles
