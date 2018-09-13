@@ -85,6 +85,7 @@
 - [ ] Shorts
 - [ ] Long-sleeve shirts
 - [ ] Socks
+- [ ] Wool socks
 - [ ] Boots
 - [ ] Hiking boots
 - [ ] Sleepwear
@@ -97,7 +98,7 @@
 - [ ] Baseball cap
 - [ ] Swimsuits
 - [ ] Water sandals
-- [ ] Bandanas
+- [ ] Bandana
 
 # Health & Hygiene
 - [ ] Toilet paper
@@ -111,6 +112,8 @@
 - [ ] Lip balm
 
 # Personal Items
-- [ ] Credit card and/or cash
+- [ ] Credit cards
+- [ ] Cash
+- [ ] Quarters
 - [ ] ID
 - [ ] Cellphone

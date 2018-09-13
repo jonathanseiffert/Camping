@@ -1,21 +1,33 @@
-* Cottonwood Canyon
-  * Shaniko
-  * Fossil, OR, USA
-  * John Day Fossil Beds National Monument, Oregon 19, Kimberly, OR, USA
-  * Mitchell, OR, USA
-  * Painted Hills, Oregon, USA
-* Lower Palisades Campground, Prineville, OR 97754 (Campsite # 11)
-  * Fort Rock, OR, USA
-  * Paulina Marsh, Oregon, USA
-  * Silver Lake, OR, USA
-  * Picture Rock Pass, Oregon, USA
-  * Summer Lake, OR, USA
-  * Paisley, OR, USA
-  * Abert Rim, Oregon, USA
-  * Hart Mountain National Antelope Refuge, Plush, OR, USA
-* Lakeview, OR, USA
-* ...
-* Crater Lake
-* ...
-* Bend
-* ...
+Day 1 (Sunday)
+Home
+Gas (Biggs Junction, Oregon)
+Cottonwood Canyon (Lone Tree Campground, Oregon)
+
+Day 2 (Monday)
+Gas(Condon, Oregon / Fossil, Oregon)
+John Day Fossil Beds National Monument
+Painted Hills
+Gas (Prineville, Oregon)
+Crooked River (Lower Palisades Campground, Prineville, Oregon)
+
+Day 3 (Tuesday)
+Gas (Burns, Oregon)
+Alvord Hot Springs (Oregon)
+
+Day 4 (Wednesday)
+Gas (Fields General Store Motel & Gas, 22276 Fields Dr, Fields, Oregon 97710)
+Steens Loop Tour
+	Frenchglen Oregon
+	Steens Summit Trailhead
+	South Steens Campground
+	Frenchglen, Oregon
+South Steens Campground (South Steens Campground, Steens Mountain Rd, Princeton, Oregon 97721) or Page Springs Campground (Page Springs Campground, Frenchglen, OR)
+
+Day 5 (Thursday)
+Gas (Frenchglen, Oregon)
+Gas (Burns, Oregon)
+Bend, Oregon
+
+Day 6 (Friday)
+Gas (Bend, Oregon)
+Home
