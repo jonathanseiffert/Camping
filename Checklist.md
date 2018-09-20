@@ -20,9 +20,12 @@
 - [ ] Extra stakes
 - [ ] Hammer
 - [ ] Axe
+- [ ] Shovel
 
 # Kitchen
 - [ ] Water
+- [ ] Coleman stove
+- [ ] Propane tanks
 - [ ] Matches
 - [ ] Lighter
 - [ ] Lighter fluid
@@ -30,8 +33,13 @@
 - [ ] Cooking utensils
 - [ ] Sharp knife
 - [ ] Cutting board
-- [ ] Plates/bowls
-- [ ] Mugs/cups
+- [ ] Plates
+- [ ] Bowls
+- [ ] Mugs
+- [ ] Cups
+- [ ] Tea kettle (for stove)
+- [ ] Tea kettle (for brewing)
+- [ ] Thermos
 - [ ] Cooler
 - [ ] Bucket
 - [ ] Biodegradable soap
@@ -42,6 +50,30 @@
 
 # Food
 - [ ] Water bottles
+- [ ] Trail mix
+- [ ] Protein bars
+- [ ] Fruit bars
+- [ ] Chocolate bars
+- [ ] Chips
+- [ ] Sunflower seeds
+- [ ] Homemade kraut
+- [ ] Hummus
+- [ ] Bagels
+- [ ] Red onion
+- [ ] Cucumber
+- [ ] Capers
+- [ ] Almond butter
+- [ ] Honey
+- [ ] Bread
+- [ ] Taco meat
+- [ ] Tortillas
+- [ ] Refried beans
+- [ ] Lettuce
+- [ ] White onion
+- [ ] Shard cheddar cheese
+- [ ] Sour cream
+- [ ] Salsa
+- [ ] Tea
 
 # Campsite Extras
 - [ ] Map
@@ -96,7 +128,7 @@
 - [ ] Gloves
 - [ ] Stocking hat
 - [ ] Baseball cap
-- [ ] Swimsuits
+- [ ] Swimsuit
 - [ ] Water sandals
 - [ ] Bandana
 
@@ -104,11 +136,13 @@
 - [ ] Toilet paper
 - [ ] Toothbrush
 - [ ] Toothpaste
-- [ ] Toiletries
+- [ ] Lotion
+- [ ] Deodorandt
 - [ ] Towel
 - [ ] First-aid kit or first-aid supplies (see First-Aid Checklist)
 - [ ] Sunscreen
 - [ ] Sunglasses
+- [ ] Extra glasses
 - [ ] Lip balm
 
 # Personal Items
