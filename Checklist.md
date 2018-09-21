@@ -51,28 +51,17 @@
 # Food
 - [ ] Water bottles
 - [ ] Trail mix
-- [ ] Protein bars
-- [ ] Fruit bars
+- [ ] Backpacking bars
 - [ ] Chocolate bars
 - [ ] Chips
 - [ ] Sunflower seeds
-- [ ] Homemade kraut
-- [ ] Hummus
-- [ ] Bagels
-- [ ] Red onion
-- [ ] Cucumber
-- [ ] Capers
+- [ ] Coucous salad
+- [ ] Farro salad
+- [ ] Potato salad
+- [ ] Hummus sandwiches
 - [ ] Almond butter
 - [ ] Honey
 - [ ] Bread
-- [ ] Taco meat
-- [ ] Tortillas
-- [ ] Refried beans
-- [ ] Lettuce
-- [ ] White onion
-- [ ] Shard cheddar cheese
-- [ ] Sour cream
-- [ ] Salsa
 - [ ] Tea
 
 # Campsite Extras
