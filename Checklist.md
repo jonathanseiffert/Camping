@@ -32,7 +32,7 @@
 - [X] Eating utensils
 - [X] Cooking utensils
 - [X] Sharp knife
-- [ ] Cutting board
+- [X] Cutting board
 - [X] Plates
 - [X] Bowls
 - [X] Mugs
@@ -40,7 +40,7 @@
 - [X] Tea kettle (for stove)
 - [X] Tea kettle (for brewing)
 - [X] Thermos
-- [ ] Cooler
+- [X] Cooler
 - [X] Biodegradable soap
 - [X] Towels
 - [X] Trash bags
@@ -53,10 +53,10 @@
 - [X] Backpacking bars
 - [X] Chocolate bars
 - [X] Chips
-- [ ] Coucous salad
-- [ ] Farro salad
-- [ ] Potato salad
-- [ ] Hummus sandwiches
+- [X] Coucous salad
+- [X] Farro salad
+- [X] Potato salad
+- [X] Hummus sandwiches
 - [X] Almond butter
 - [X] Honey
 - [X] Bread
@@ -68,16 +68,16 @@
 - [X] Power inverter
 - [X] Camera
 - [X] Tripod
-- [ ] Cellphone
+- [X] Cellphone
 - [X] Cellphone charger
-- [ ] Macbook Pro
-- [ ] Macbook charger
-- [ ] Magic mouse
-- [ ] Mouse pad
-- [ ] Steam controller
-- [ ] Nintendo Switch
-- [ ] USB battery pack
-- [ ] Headphones
+- [X] Macbook Pro
+- [X] Macbook charger
+- [X] Magic mouse
+- [X] Mouse pad
+- [X] Steam controller
+- [X] Nintendo Switch
+- [X] USB battery pack
+- [X] Headphones
 - [X] Bose speaker
 - [X] Binoculars
 - [X] Birding field guide
@@ -107,7 +107,7 @@
 - [X] Wool socks
 - [X] Boots
 - [X] Hiking boots
-- [ ] Sleepwear
+- [X] Sleepwear
 - [X] Long underwear
 - [X] Rainwear
 - [X] Lightweight fleece
@@ -127,13 +127,12 @@
 - [X] Towel
 - [X] First-aid kit or first-aid supplies (see First-Aid Checklist)
 - [X] Sunscreen
-- [ ] Sunglasses
-- [ ] Extra glasses
-- [ ] Lip balm
+- [X] Sunglasses
+- [X] Extra glasses
+- [X] Lip balm
 
 # Personal Items
-- [ ] Credit cards
-- [ ] Cash
-- [ ] Quarters
-- [ ] ID
-- [ ] Cellphone
+- [X] Credit cards
+- [X] Cash
+- [X] Quarters
+- [X] ID
