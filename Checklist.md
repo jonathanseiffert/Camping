@@ -1,77 +1,75 @@
 # Campsite
-- [ ] Tent (+ footprint, stakes)
-- [ ] Sleeping bags
-- [ ] Fleece blanket
-- [ ] Sleeping bag liner
-- [ ] Sleeping mattress
-- [ ] Camping pillow
-- [ ] Headlamps
-- [ ] Flashlight
-- [ ] Camp chair
-- [ ] Camp table
-- [ ] Lantern
-- [ ] Sunshade, tarp or screen house
-- [ ] Hammock
+- [X] Tent (+ footprint, stakes)
+- [X] Sleeping bags
+- [X] Fleece blanket
+- [X] Sleeping bag liner
+- [X] Sleeping mattress
+- [X] Camping pillow
+- [X] Headlamps
+- [X] Flashlight
+- [X] Camp chair
+- [X] Camp table
+- [X] Lantern
+- [X] Sunshade, tarp or screen house
+- [X] Hammock
 
 # Tools & Repair Items
-- [ ] Auto-repair kit
-- [ ] Duct tape
-- [ ] Extra cord
-- [ ] Extra stakes
-- [ ] Hammer
-- [ ] Axe
-- [ ] Shovel
+- [X] Auto-repair kit
+- [X] Duct tape
+- [X] Extra cord
+- [X] Extra stakes
+- [X] Hammer
+- [X] Axe
+- [X] Shovel
 
 # Kitchen
-- [ ] Water
-- [ ] Coleman stove
-- [ ] Propane tanks
-- [ ] Matches
-- [ ] Lighter
-- [ ] Lighter fluid
-- [ ] Eating utensils
-- [ ] Cooking utensils
-- [ ] Sharp knife
+- [X] Water
+- [X] Coleman stove
+- [X] Propane tanks
+- [X] Matches
+- [X] Lighter
+- [X] Lighter fluid
+- [X] Eating utensils
+- [X] Cooking utensils
+- [X] Sharp knife
 - [ ] Cutting board
-- [ ] Plates
-- [ ] Bowls
-- [ ] Mugs
-- [ ] Cups
-- [ ] Tea kettle (for stove)
-- [ ] Tea kettle (for brewing)
-- [ ] Thermos
+- [X] Plates
+- [X] Bowls
+- [X] Mugs
+- [X] Cups
+- [X] Tea kettle (for stove)
+- [X] Tea kettle (for brewing)
+- [X] Thermos
 - [ ] Cooler
-- [ ] Bucket
-- [ ] Biodegradable soap
-- [ ] Towels
-- [ ] Trash bags
-- [ ] Grocery bags
-- [ ] Paper towels
+- [X] Biodegradable soap
+- [X] Towels
+- [X] Trash bags
+- [X] Grocery bags
+- [X] Paper towels
 
 # Food
-- [ ] Water bottles
-- [ ] Trail mix
-- [ ] Backpacking bars
-- [ ] Chocolate bars
-- [ ] Chips
-- [ ] Sunflower seeds
+- [X] Water bottles
+- [X] Trail mix
+- [X] Backpacking bars
+- [X] Chocolate bars
+- [X] Chips
 - [ ] Coucous salad
 - [ ] Farro salad
 - [ ] Potato salad
 - [ ] Hummus sandwiches
-- [ ] Almond butter
-- [ ] Honey
-- [ ] Bread
-- [ ] Tea
+- [X] Almond butter
+- [X] Honey
+- [X] Bread
+- [X] Tea
 
 # Campsite Extras
-- [ ] Map
-- [ ] Compass
-- [ ] Power inverter
-- [ ] Camera
-- [ ] Tripod
+- [X] Map
+- [X] Compass
+- [X] Power inverter
+- [X] Camera
+- [X] Tripod
 - [ ] Cellphone
-- [ ] Cellphone charger
+- [X] Cellphone charger
 - [ ] Macbook Pro
 - [ ] Macbook charger
 - [ ] Magic mouse
@@ -80,56 +78,55 @@
 - [ ] Nintendo Switch
 - [ ] USB battery pack
 - [ ] Headphones
-- [ ] Bose speaker
-- [ ] Binoculars
-- [ ] Birding field guide
-- [ ] Graphic novels
-- [ ] Notebook and pen/pencil
-- [ ] Art supplies
-- [ ] Playing cards
-- [ ] Marijuana
-- [ ] Edibles
-- [ ] Pipe
+- [X] Bose speaker
+- [X] Binoculars
+- [X] Birding field guide
+- [X] Graphic novels
+- [X] Notebook and pen/pencil
+- [X] Art supplies
+- [X] Playing cards
+- [X] Marijuana
+- [X] Edibles
+- [X] Pipe
 
 # Dog supplies
-- [ ] Food
-- [ ] Water
-- [ ] Food bowl
-- [ ] Water bowl
-- [ ] Treats
-- [ ] Bed
+- [X] Food
+- [X] Water
+- [X] Food bowl
+- [X] Water bowl
+- [X] Treats
+- [X] Bed
 
 # Clothing & Footwear
-- [ ] Underwear
-- [ ] T-shirts
-- [ ] Pants
-- [ ] Shorts
-- [ ] Long-sleeve shirts
-- [ ] Socks
-- [ ] Wool socks
-- [ ] Boots
-- [ ] Hiking boots
+- [X] Underwear
+- [X] T-shirts
+- [X] Pants
+- [X] Shorts
+- [X] Long-sleeve shirts
+- [X] Socks
+- [X] Wool socks
+- [X] Boots
+- [X] Hiking boots
 - [ ] Sleepwear
-- [ ] Long underwear
-- [ ] Rainwear
-- [ ] Lightweight fleece
-- [ ] Warm insulated jacket
-- [ ] Gloves
-- [ ] Stocking hat
-- [ ] Baseball cap
-- [ ] Swimsuit
-- [ ] Water sandals
-- [ ] Bandana
+- [X] Long underwear
+- [X] Rainwear
+- [X] Lightweight fleece
+- [X] Warm insulated jacket
+- [X] Gloves
+- [X] Stocking hat
+- [X] Baseball cap
+- [X] Swimsuit
+- [X] Water sandals
 
 # Health & Hygiene
-- [ ] Toilet paper
-- [ ] Toothbrush
-- [ ] Toothpaste
-- [ ] Lotion
-- [ ] Deodorandt
-- [ ] Towel
-- [ ] First-aid kit or first-aid supplies (see First-Aid Checklist)
-- [ ] Sunscreen
+- [X] Toilet paper
+- [X] Toothbrush
+- [X] Toothpaste
+- [X] Lotion
+- [X] Deodorandt
+- [X] Towel
+- [X] First-aid kit or first-aid supplies (see First-Aid Checklist)
+- [X] Sunscreen
 - [ ] Sunglasses
 - [ ] Extra glasses
 - [ ] Lip balm
